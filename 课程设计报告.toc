@@ -1,5 +1,0 @@
-\contentsline {section}{\numberline {1}系统概述}{2}{section.1}%
-\contentsline {section}{\numberline {2}运行截图}{4}{section.2}%
-\contentsline {section}{\numberline {3}源代码}{7}{section.3}%
-\contentsline {section}{\numberline {4}结构图}{8}{section.4}%
-\contentsline {section}{\numberline {5}小组成员及分工}{11}{section.5}%
